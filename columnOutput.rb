@@ -14,7 +14,7 @@
 
 title = "Necessities"
 input = ['fairy', 'cakes', 'happy', 'fish', 'disgustipated', 'melon-balls']
-
+ 
 def findLongestString array_strings
 	longest = 0
 	array_strings.each do |i|
